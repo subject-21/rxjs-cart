@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "_id": "345345345345",
+            "name": "js book",
+            "price": 344,
+            "description": "dg rer bgr"
+        },
+        {
+            "_id": "245300345",
+            "name": "beard except",
+            "price": 203,
+            "description": "te lr bgr"
+        },
+        {
+            "_id": "34245264444",
+            "name": "day free",
+            "price": 1000000,
+            "description": "dg vr sg"
+        },
+        {
+            "_id": "345023523",
+            "name": "coconut",
+            "price": 432,
+            "description": "ge bwy lf"
+        }
+    ]
+}
