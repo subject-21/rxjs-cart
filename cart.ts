@@ -1,5 +1,5 @@
 import { products as data } from "./products.json";
-import { BehaviorSubject, Observable, of, reduce, map, switchMap, from, filter, toArray, scan, mergeMap, last, takeLast } from "rxjs";
+import { BehaviorSubject, Observable, map } from "rxjs";
 
 interface Product {
     _id: string,
